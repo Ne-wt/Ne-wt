@@ -5,7 +5,7 @@ You can reach me on discord (Newt#7776) or via [email](mailto:t.a.greenwood03@gm
 
 ## Populer Repositories
 
-- [LoreKeeper](https://github.com/Ne-wt/lorekeeper) - An open-source framework for ARPG websites.
+- [Lorekeeper](https://github.com/Ne-wt/lorekeeper) - An open-source framework for ARPG websites.
 
 ### Stats
 

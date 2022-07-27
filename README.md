@@ -3,7 +3,7 @@ Hi! My name's Tara, I'm a first year DCU Computer Science student. Most of my co
 
 You can reach me on discord (Newt#7776) or via [email](mailto:t.a.greenwood03@gmail.com).
 
-## Populer Repositories
+## Popular Repositories
 
 - [Lorekeeper](https://github.com/Ne-wt/lorekeeper) - An open-source framework for ARPG websites.
 
